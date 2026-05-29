@@ -157,3 +157,5 @@ The platform is **feature-complete for an MVP launch**:
 - Oracle Cloud and Azure/Vercel deployment stacks ready
 
 The next phase adds: Stripe payments for paid course marketplaces, analytics dashboard for L&D managers, mobile app (React Native), and a marketplace where tenants can sell courses to each other.
+
+https://discord.gg/eWjv2Wqq
